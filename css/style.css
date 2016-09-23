@@ -1,0 +1,27 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+
+canvas {
+  border: solid 1px;
+  background: #ffffff;
+}
+
+#system {
+  height: 588px;
+  margin: 10px 0;
+  padding: 10px 0 0 30px;
+  border: solid 1px;
+  background-image: url(../img/systemBackground.jpg);
+}
+
+#systemPara {
+  float: right;
+  width: 220px;
+  height: 588px;
+  margin: 0 10px 0 0;
+}
+#systemPara span {
+  float: right;
+}
